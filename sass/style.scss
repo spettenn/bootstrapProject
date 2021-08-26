@@ -1,0 +1,47 @@
+@import '/sass/partials/custom';
+
+// bootsrap style"tyle"
+
+@import '../bootsrap-scss/scss/functions';
+@import '../bootsrap-scss/scss/variables';
+@import '../bootsrap-scss/scss/mixins';
+@import '../bootsrap-scss/scss/utilities';
+
+// Layout & components
+@import '../bootsrap-scss/scss/root';
+@import '../bootsrap-scss/scss/reboot';
+@import '../bootsrap-scss/scss/type';
+@import '../bootsrap-scss/scss/images';
+@import '../bootsrap-scss/scss/containers';
+@import '../bootsrap-scss/scss/grid';
+@import '../bootsrap-scss/scss/tables';
+@import '../bootsrap-scss/scss/forms';
+@import '../bootsrap-scss/scss/buttons';
+@import '../bootsrap-scss/scss/transitions';
+@import '../bootsrap-scss/scss/dropdown';
+@import '../bootsrap-scss/scss/button-group';
+@import '../bootsrap-scss/scss/nav';
+@import '../bootsrap-scss/scss/navbar';
+@import '../bootsrap-scss/scss/card';
+@import '../bootsrap-scss/scss/accordion';
+@import '../bootsrap-scss/scss/breadcrumb';
+@import '../bootsrap-scss/scss/pagination';
+@import '../bootsrap-scss/scss/badge';
+@import '../bootsrap-scss/scss/alert';
+@import '../bootsrap-scss/scss/progress';
+@import '../bootsrap-scss/scss/list-group';
+@import '../bootsrap-scss/scss/close';
+@import '../bootsrap-scss/scss/toasts';
+@import '../bootsrap-scss/scss/modal';
+@import '../bootsrap-scss/scss/tooltip';
+@import '../bootsrap-scss/scss/popover';
+@import '../bootsrap-scss/scss/carousel';
+@import '../bootsrap-scss/scss/spinners';
+@import '../bootsrap-scss/scss/offcanvas';
+@import '../bootsrap-scss/scss/placeholders';
+
+// Helpers
+@import '../bootsrap-scss/scss/helpers';
+
+// Utilities
+@import '../bootsrap-scss/scss/utilities/api';
